@@ -13,6 +13,7 @@
 #include "qwt_global.h"
 #include <qframe.h>
 #include <qopenglwidget.h>
+#include <qpainterpath.h>
 
 class QwtPlot;
 

@@ -152,7 +152,7 @@ win32 {
 # Otherwise you have to build them from the playground directory.
 ######################################################################
 
-QWT_CONFIG     += QwtPlayground
+#QWT_CONFIG     += QwtPlayground
 
 ######################################################################
 # When Qt has been built as framework qmake wants 
